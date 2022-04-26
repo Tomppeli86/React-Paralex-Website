@@ -1,8 +1,10 @@
 # Paralex-website
 
-Scrolling paralex backround for website 
+Scrolling paralex backround for a website 
 
-https://github.com/jscottsmith/react-scroll-parallax
+I used this module https://github.com/jscottsmith/react-scroll-parallax
 
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/99166139/165169036-6dbafa32-85b1-425b-9539-5c827c01e993.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/99166139/165221411-d518a080-aed6-4ca5-9887-a624243b277b.gif)
+
+
