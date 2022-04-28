@@ -1,6 +1,6 @@
 # Paralex-website
 
-Scrolling paralex backround for a website 
+Scrolling paralex backround testing for a website 
 
 I used this module https://github.com/jscottsmith/react-scroll-parallax
 
